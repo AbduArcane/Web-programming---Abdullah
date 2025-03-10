@@ -1,0 +1,94 @@
+/* HTML STYLE SHEET */
+/*Styling for the body of html*/
+body {
+    background-color:#e9d5d5;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/*Styling for the h1 of html*/
+h1 {
+    background-color: #FAE5D3;
+    color: #000000;
+    text-align: center;
+    padding: 25px;
+}
+
+/*Styling for the paragraph*/
+p {
+    font-size: 18px;
+    color: #000000;
+    line-height: 1.5;
+    text-align: center;
+
+}
+
+/*Styling for the h3 of html*/
+h3 {
+    background-color: #FAE5D3;
+    font-family: 'Courier New', Courier, monospace;
+    color: #000000;
+    text-align: center;
+    padding: 25px;
+}
+
+/*Styling for the unordered list*/
+ul {
+    list-style-type: decimal;
+    background-color: #FAE5D3;
+    padding: 30px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    width: fit-content;
+    margin: 20px auto;
+}
+
+/*Styling for the lists in ul*/
+ul li {
+    font-size: 18px;
+    color:#000000;
+    padding: 5px 0;
+
+}
+
+
+/*Styling for the h2 of html*/
+h2 {
+    background-color: #FAE5D3;
+    font-family: 'Courier New', Courier, monospace;
+    color: #000000;
+    text-align: center;
+    padding: 25px;
+}
+
+/*Styling for the ordered list*/
+ol {
+    list-style-type: upper-roman;
+    background-color: #FAE5D3;
+    padding: 30px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    width: fit-content;
+    margin: 20px auto;
+}
+
+/*Styling for the list of ol*/
+ol li {
+    font-size: 18px;
+    color:#000000;
+    padding: 5px 0;
+
+}
+
+/*Styling for the box*/
+.box {
+    border: 2px solid #000000;
+    padding: 30px;
+    background-color:#FAE5D3 ;
+    width: 80%;
+    margin: 20px auto;
+    font-size: 18px;
+    color: #000000;
+    border-radius: 8px;
+}
